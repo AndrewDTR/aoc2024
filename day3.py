@@ -58,4 +58,4 @@ def question_switcher(question):
     return running_sum
 
 
-print(question_switcher(True), question_switcher(False))  # p1, p2
+print(question_switcher(True), question_switcher(False)) # part 1, part 2
